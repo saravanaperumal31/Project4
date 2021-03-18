@@ -19,7 +19,12 @@ public static void main(String[] args) {
 	s.method1();
 	System.out.println(s.a);
 	System.out.println("Completed");
+    System.out.println("2nd completed");
+    System.out.println("Happy");
+
+	
     
+
     
 	
 
