@@ -18,7 +18,8 @@ public static void main(String[] args) {
 	System.out.println(a2);
 	s.method1();
 	System.out.println(s.a);
-    
+    System.out.println("2nd completed");
+    System.out.println("Happy");
     
 	
 
