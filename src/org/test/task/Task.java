@@ -8,8 +8,8 @@ public class Task {
 		System.out.println(a);
 		int a2=this.a;
 		System.out.println(a2);
-//		this.a=a;
-//		System.out.println(a);
+		this.a=a;
+		System.out.println(a);
 	}
 	
 public static void main(String[] args) {
@@ -18,6 +18,7 @@ public static void main(String[] args) {
 	System.out.println(a2);
 	s.method1();
 	System.out.println(s.a);
+	System.out.println("Completed");
     
     
 	
